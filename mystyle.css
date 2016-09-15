@@ -17,3 +17,6 @@ body {
   padding: 0;
   font-size: 50px;
 }
+#sidebar h1{
+  padding: 10px;
+}
