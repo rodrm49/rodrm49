@@ -16,6 +16,7 @@ body {
   margin: 0 auto;
   padding: 0;
   font-size: 50px;
+  position: fixed;
 }
 #sidebar h1{
   padding: 10px;
