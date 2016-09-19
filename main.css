@@ -20,5 +20,5 @@ body {
 
 #navigation {
 	display: inline;
-	text-decoration: none;
+	list-style-type: none;
 }
