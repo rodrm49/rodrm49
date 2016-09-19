@@ -15,14 +15,14 @@ body {
 	color: white;
 	width: 25vw;
 	text-align: center;
-	font-size: 100px;
+	font-size: 50px;
 }
 
 #quote {
 	background: black;
 	color: white;
 	width: 75vw;
-	height: 50px;
+	height: 100px;
 }
 
 #navigation {
