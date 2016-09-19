@@ -20,4 +20,5 @@ body {
 
 #navigation {
 	display: inline;
+	text-decoration: none;
 }
