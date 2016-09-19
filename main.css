@@ -15,5 +15,6 @@ body {
 	color: white;
 	width: 20vw;
 	text-align: center;
-	font-size: 3em;
+	font-size: 25px;
+	line-height: 50%;
 }
