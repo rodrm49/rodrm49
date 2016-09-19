@@ -18,6 +18,11 @@ body {
 	font-size: 25px;
 }
 
+#quote {
+	background: black;
+	color: white;
+}
+
 #navigation {
 	display: inline;
 	list-style-type: none;
