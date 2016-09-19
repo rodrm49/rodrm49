@@ -13,15 +13,17 @@ body {
 #sidebar {
 	background: black;
 	color: white;
-	width: 25vw;
+	width: 100px;
 	text-align: center;
 	font-size: 25px;
 }
 
+#content {
+	width: 75vw;
+}
 #quote {
 	background: black;
 	color: white;
-	width: 75vw;
 	height: 100px;
 }
 
