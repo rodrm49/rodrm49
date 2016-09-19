@@ -28,6 +28,6 @@ body {
 }
 
 #navigation {
-	display: inline;
+	display: flex;
 	list-style-type: none;
 }
