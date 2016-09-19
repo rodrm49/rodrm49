@@ -14,17 +14,20 @@ li {
 	display: inline;
 }
 
-#placeholder {
-	height: 100px;
-	width: 100px;
-}
 
 #sidebar {
+	display: flex;
+	flex-direction: column;
 	background: black;
 	color: white;
 	width: 100px;
 	text-align: center;
 	font-size: 25px;
+}
+
+#placeholder {
+	height: 100px;
+	width: 100px;
 }
 
 #content {
