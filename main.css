@@ -37,6 +37,8 @@ li {
 	background: black;
 	color: white;
 	height: 100px;
+	text-decoration: italic;
+	text-align: right;
 }
 
 #navigation {
